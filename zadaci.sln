@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadaci", "zadaci\zadaci.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krug", "Krug\Krug.csproj", "{587197B4-A7D2-496F-8CEB-DCD774B0B72C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trougao", "Trougao\Trougao.csproj", "{F047329C-573F-44D4-A753-204F32D01395}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{587197B4-A7D2-496F-8CEB-DCD774B0B72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{587197B4-A7D2-496F-8CEB-DCD774B0B72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{587197B4-A7D2-496F-8CEB-DCD774B0B72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F047329C-573F-44D4-A753-204F32D01395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F047329C-573F-44D4-A753-204F32D01395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F047329C-573F-44D4-A753-204F32D01395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F047329C-573F-44D4-A753-204F32D01395}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
